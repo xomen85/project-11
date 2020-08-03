@@ -1,0 +1,23 @@
+body {
+  margin: 20px;
+  background-color:#d6eaf8;
+  align-items:center;
+  border-style:hidden;
+  }
+#base{
+font-size: 16px;
+margin-top: 16px;
+}
+#height{
+font-size: 16px;
+}
+#output{
+font-size: 16px;
+}
+.buttn{
+  background-color:#a9dfbf;
+  font-size: 16px;
+}
+p{
+  font-size: 16px;
+}
